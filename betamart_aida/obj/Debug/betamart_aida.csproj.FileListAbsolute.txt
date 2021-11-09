@@ -1,0 +1,11 @@
+E:\UKK\oop\betamart_aida\betamart_aida\bin\Debug\betamart_aida.exe.config
+E:\UKK\oop\betamart_aida\betamart_aida\bin\Debug\betamart_aida.exe
+E:\UKK\oop\betamart_aida\betamart_aida\bin\Debug\betamart_aida.pdb
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.csproj.AssemblyReference.cache
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.Properties.Resources.resources
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.csproj.GenerateResource.cache
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.csproj.CoreCompileInputs.cache
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.exe
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.pdb
+E:\UKK\oop\betamart_aida\betamart_aida\obj\Debug\betamart_aida.Form1.resources
+E:\UKK\oop\betamart_aida\betamart_aida\bin\Debug\aida.accdb
